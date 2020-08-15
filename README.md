@@ -59,7 +59,7 @@ To import the css style in our index.php we need the next liner in the head inde
 
 After that you need to have something like this
 
-![picture1](/opt/lampp/htdocs/newTutorial/picture1.png)
+![picture1](picture1.png)
 
 Now let to make a section your post your experience, to save your experience we will use a XML file with the next extructure
 
@@ -130,7 +130,7 @@ Like that we can make a layout but that is only text then it is missing style, u
 
 After set up your page should look like this
 
-![](/opt/lampp/htdocs/newTutorial/picture2.png)
+![picture2](picture2.png)
 
 Now we need automate the process to make a post reading the experiences file with PHP replacing the post draf with the next code
 
@@ -151,7 +151,7 @@ Now we need automate the process to make a post reading the experiences file wit
 
 With that code we get each post in the experiences file, and when you open the page, it   should look like this
 
-![](/opt/lampp/htdocs/newTutorial/picture3.png)
+![picture3](picture3.png)
 
 Now we go to make side navigator to show our social networks like Gihub, GitLab, Linkedin and other side tag to make one more thing later.
 
@@ -204,7 +204,7 @@ If you notice, the urls of the above code need to be replaced by your address an
 
 After that the page has to look like this
 
-![](/opt/lampp/htdocs/newTutorial/picture4.png)
+![picture4](picture4.png)
 
 To use more than one page we will emulate a contact page then we use the same code until the side navigator in other file called contact.php
 
@@ -238,7 +238,7 @@ To use more than one page we will emulate a contact page then we use the same co
 
 And de page has to look like this
 
-![](/opt/lampp/htdocs/newTutorial/picture5.png)
+![picture5](picture5.png)
 
 After the side navigator we going to add a PHP code to detect when the user send the form and next to we add the form with the next code
 
@@ -300,11 +300,11 @@ input[type=email], input[type=text], select, textarea {
 
 After that your page has to look like this
 
-![](/opt/lampp/htdocs/newTutorial/picture6.png)
+![picture6](picture6.png)
 
 And when you send the form it say thanks
 
-![](/opt/lampp/htdocs/newTutorial/picture7.png)
+![picture7](picture7.png)
 
 And does it, good lucky.
 
